@@ -1,0 +1,3 @@
+# Always use LF in repo (especially important for scripts)
+* text=auto eol=lf
+*.sh text eol=lf
