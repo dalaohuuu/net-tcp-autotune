@@ -33,6 +33,12 @@
 ---
 
 ## 🚀 使用方法
+```
+sudo curl -fsSL https://raw.githubusercontent.com/dalaohuuu/net-tcp-autotune/refs/heads/main/net-tcp-autotune.sh \
+-o net-tcp-autotune.sh &&\
+chmod +x net-tcp-autotune.sh &&\
+bash net-tcp-autotune.sh
+```
 
 ### 1️⃣ 预演模式（默认，推荐先运行）
 ```bash
